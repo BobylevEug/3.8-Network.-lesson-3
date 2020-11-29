@@ -1,16 +1,10 @@
-# Network.-lesson-3
+# 3.8 Network.-lesson-3
 
-##1. Исправление  
+## 1. Time-wait
 
-{ "info" : "Sample JSON output from our service\t",
-        "elements" : [
-          { "name" : "first",
-          "type" : "server",
-          "ip" : "7175" 
-          },
-          { "name" : "second",
-          "type" : "proxy",
-          "ip" : "71.78.22.43"
-          }
-       ]
-}
+## 2. 
+
+## 3. 3 адреса
+
+
+
